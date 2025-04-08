@@ -14,5 +14,5 @@ int main() {
             printf("%d", z*x);       
         }
     }   
-    return 0;
+    return 0;..
 }
